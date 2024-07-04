@@ -1,6 +1,5 @@
-# Global Core Tech Internship - Data Science with Python
 
-Welcome to the Global Core Tech Internship on Data Science with Python! This four-week program, from October 26th to November 24th, equips you with essential skills in data science using Python, focusing on libraries such as NumPy, Pandas, Matplotlib, and exploratory data analysis (EDA).
+Sentiment-Analysis-Testing-Beta
 
 ## Table of Contents
 
